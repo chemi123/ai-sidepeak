@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "peek-ai-boo",
+  "name": "ai-sidepeak",
   "description": "選択テキストについてAIに質問し、チャット履歴を汚さずに回答を参照できます",
   "version": "1.0.0",
   "permissions": [
